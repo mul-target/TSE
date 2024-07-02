@@ -1,6 +1,7 @@
 # TSE
 
-paper: Comparative Learning Based Stance Agreement Detection Framework for Multi-Target Stance Detection.
+paper: A Two-Stage Multi-Target Stance Detection Approach Based on
+Emotional Attention
 
 ## Abstract
 
